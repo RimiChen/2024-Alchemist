@@ -76,3 +76,8 @@ crashlytics-build.properties
 *.meta
 *.unity
 *.wlt
+*.dll
+*.cache
+*.props
+*.targets
+*.editorconfig
