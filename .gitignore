@@ -71,7 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# add by myself
+# add by myself, onnx is the model file
 *.asset
 *.meta
 *.unity
@@ -81,3 +81,5 @@ crashlytics-build.properties
 *.props
 *.targets
 *.editorconfig
+*.onnx
+
