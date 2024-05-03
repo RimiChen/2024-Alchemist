@@ -1,0 +1,15 @@
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\bin\Debug\net8.0\UnityPlug-inPractice.deps.json
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\bin\Debug\net8.0\UnityPlug-inPractice.dll
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\bin\Debug\net8.0\UnityPlug-inPractice.pdb
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\bin\Debug\net8.0\UnityEngine.dll
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\UnityPlug-inPractice.csproj.AssemblyReference.cache
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\UnityPlug-inPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\UnityPlug-inPractice.AssemblyInfoInputs.cache
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\UnityPlug-inPractice.AssemblyInfo.cs
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\UnityPlug-inPractice.csproj.CoreCompileInputs.cache
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\UnityPlug-inPractice.sourcelink.json
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\UnityPlug-inPractice.csproj.CopyComplete
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\UnityPlug-inPractice.dll
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\refint\UnityPlug-inPractice.dll
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\UnityPlug-inPractice.pdb
+D:\Github\Alchemist\UnityPlug-ins\UnityPlug-inPractice\obj\Debug\net8.0\ref\UnityPlug-inPractice.dll
